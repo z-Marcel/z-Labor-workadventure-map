@@ -1409,6 +1409,19 @@
          "tilecount":64,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":657,
+         "image":"..\/tiles\/tilesets_deviant_milkian_2.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"office_2",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
