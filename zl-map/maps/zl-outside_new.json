@@ -74,6 +74,11 @@
                  "name":"silent",
                  "type":"bool",
                  "value":true
+                }, 
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
