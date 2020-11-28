@@ -21,12 +21,6 @@
          "id":5,
          "name":"start",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"silent",
-                 "type":"bool",
-                 "value":false
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":80,
