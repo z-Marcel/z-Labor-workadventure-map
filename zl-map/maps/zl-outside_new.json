@@ -9,7 +9,7 @@
      "export":
         {
          "format":"json",
-         "target":"zl-outside_2"
+         "target":"."
         }
     },
  "height":30,
