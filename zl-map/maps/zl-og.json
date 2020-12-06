@@ -145,7 +145,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/meet.d.ccc-p.org\/WA-Zone"
                 }],
          "type":"tilelayer",
          "visible":true,
