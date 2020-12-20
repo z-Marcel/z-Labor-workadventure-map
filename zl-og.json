@@ -240,7 +240,7 @@
         {
          "columns":16,
          "firstgid":1,
-         "image":"..\/tiles\/tilesets_deviant_milkian_1.png",
+         "image":"tiles\/tilesets_deviant_milkian_1.png",
          "imageheight":544,
          "imagewidth":544,
          "margin":1,
@@ -1436,7 +1436,7 @@
         {
          "columns":8,
          "firstgid":257,
-         "image":"..\/tiles\/floortileset.png",
+         "image":"tiles\/floortileset.png",
          "imageheight":272,
          "imagewidth":272,
          "margin":1,
@@ -1513,7 +1513,7 @@
         {
          "columns":4,
          "firstgid":321,
-         "image":"..\/tiles\/Fairydust_Small.png",
+         "image":"tiles\/Fairydust_Small.png",
          "imageheight":128,
          "imagewidth":128,
          "margin":0,
@@ -1563,7 +1563,7 @@
         {
          "columns":16,
          "firstgid":337,
-         "image":"..\/tiles\/z-Labor3232.png",
+         "image":"tiles\/z-Labor3232.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -1604,7 +1604,7 @@
         {
          "columns":8,
          "firstgid":593,
-         "image":"..\/tiles\/z-Labor-floor3434.png",
+         "image":"tiles\/z-Labor-floor3434.png",
          "imageheight":272,
          "imagewidth":272,
          "margin":1,
@@ -1617,7 +1617,7 @@
         {
          "columns":16,
          "firstgid":657,
-         "image":"..\/tiles\/tilesets_deviant_milkian_2.png",
+         "image":"tiles\/tilesets_deviant_milkian_2.png",
          "imageheight":512,
          "imagewidth":512,
          "margin":0,
@@ -3935,7 +3935,7 @@
         {
          "columns":8,
          "firstgid":913,
-         "image":"..\/tiles\/fantasy.png",
+         "image":"tiles\/fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
          "margin":0,
@@ -4111,7 +4111,7 @@
         {
          "columns":32,
          "firstgid":1977,
-         "image":"..\/tiles\/chaos_zone_shared.png",
+         "image":"tiles\/chaos_zone_shared.png",
          "imageheight":2048,
          "imagewidth":1024,
          "margin":0,
