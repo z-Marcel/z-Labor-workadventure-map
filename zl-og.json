@@ -181,7 +181,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/wiki.hackerspaces.org\/Z-Labor"
+                 "value":"https:\/\/webirc.hackint.org\/#irc:\/\/irc.hackint.org\/#z-Labor"
                 }],
          "type":"tilelayer",
          "visible":true,
