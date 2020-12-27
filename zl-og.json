@@ -379,7 +379,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":""
+                 "value":"https:\/\/pads.ccc.de\/zl-guestbook"
                 }],
          "type":"tilelayer",
          "visible":true,
