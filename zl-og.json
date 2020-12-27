@@ -379,7 +379,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/cloud.z-labor.space\/apps\/files\/?dir=\/z-Labor\/Chaos&openfile=634251"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
