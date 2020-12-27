@@ -158,7 +158,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<lobby>\/erfas-south.json#start_z-labor}"
+                 "value":"https:\/\/lobby.maps.at.rc3.world\/maps\/erfas-south.json#start_z-labor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -176,7 +176,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/chaosz0ne\/shared\/main\/main.json"
+                 "value":"https:\/\/chaoszone.maps.at.rc3.world\/\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -824,7 +824,6 @@
                  "objectgroup":
                     {
                      "draworder":"index",
-                     "id":2,
                      "name":"",
                      "objects":[
                             {
