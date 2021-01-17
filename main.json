@@ -158,7 +158,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/..\/raw.githubusercontent.com\/die3ungleichen\/2D-Welt-thueringen\/main\/sachsen\/sachsen.json#reentry-zwickau"
+                 "value":"..\/..\/..\/..\/raw.githubusercontent.com\/die3ungleichen\/2D-Welt-thueringen\/main\/sachsen\/sachsen.json#reentry-zwickau"
                 }],
          "type":"tilelayer",
          "visible":true,
