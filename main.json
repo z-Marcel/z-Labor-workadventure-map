@@ -1,12 +1,4 @@
 { "compressionlevel":-1,
- "editorsettings":
-    {
-     "export":
-        {
-         "format":"json",
-         "target":"..\/z-Labor-workadventure-map\/main2.json"
-        }
-    },
  "height":30,
  "infinite":false,
  "layers":[
