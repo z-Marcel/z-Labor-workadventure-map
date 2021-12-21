@@ -145,7 +145,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/main.json#entry_street"
+                 "value":".\/main.json#entry_back"
                 }],
          "type":"tilelayer",
          "visible":true,
