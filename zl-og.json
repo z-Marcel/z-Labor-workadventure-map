@@ -174,7 +174,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/maze.json"
+                 "value":".\/maze_new.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -189,7 +189,7 @@
          "name":"ground",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":60,
          "x":0,
          "y":0
@@ -201,7 +201,7 @@
          "name":"floor",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":60,
          "x":0,
          "y":0
@@ -219,7 +219,7 @@
                  "value":"z-Labor"
                 }],
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":60,
          "x":0,
          "y":0
