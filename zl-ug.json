@@ -157,7 +157,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/zl-ug-surv.json"
+                 "value":".\/zl-ug-surv.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -175,7 +175,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/zl-ug-left.json"
+                 "value":".\/zl-ug-left.json#start"
                 }],
          "type":"tilelayer",
          "visible":true,
