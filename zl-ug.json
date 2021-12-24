@@ -175,7 +175,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/zl-ug-surv.json"
+                 "value":".\/zl-ug-left.json"
                 }],
          "type":"tilelayer",
          "visible":true,
