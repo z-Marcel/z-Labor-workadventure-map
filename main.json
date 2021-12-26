@@ -10,7 +10,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":".\/main.json#entryM"
                 }],
@@ -166,7 +166,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":".\/zl-ug.json#entry_back"
                 }],
@@ -184,7 +184,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"exitSceneUrl",
+                 "name":"exitUrl",
                  "type":"string",
                  "value":".\/zl-ug.json#entry_street"
                 }],
