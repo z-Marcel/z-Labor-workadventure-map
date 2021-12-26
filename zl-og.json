@@ -294,7 +294,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"irc:\/\/irc.hackint.eu\/#z-labor"
+                 "value":"https:\/\/webirc.hackint.org\/#irc:\/\/irc.hackint.org\/#z-Labor"
                 }],
          "type":"tilelayer",
          "visible":true,
