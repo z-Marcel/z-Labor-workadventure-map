@@ -223,6 +223,16 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"z-Labor"
+                }, 
+                {
+                 "name":"jitsiTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"jitsiTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to enter the z-Labor jitsi meet room"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -240,7 +250,17 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/webirc.hackint.org\/#irc:\/\/irc.hackint.org\/#z-Labor"
+                 "value":"https:\/\/wiki.hackerspaces.org\/Z-Labor"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to see us on hackerspaces.org"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -259,6 +279,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/twitter.com\/z_labor"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to visit our Twitter account"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -276,7 +306,17 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/watch?v=dov-5CUwlv4&list=UU2TXq_t06Hjdr2g_KdKpHQg&index=119"
+                 "value":"https:\/\/media.ccc.de\/v\/36c3-10776-hebocon"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to see iconic Hebocon fights"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -295,6 +335,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/webirc.hackint.org\/#irc:\/\/irc.hackint.org\/#z-Labor"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open WebIRC to #z-Labor"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -313,6 +363,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/zlabor.wordpress.com\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open the old and crappy z-Labor Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -331,6 +391,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/app.soundgrail.com\/virtual-piano\/"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to play piano"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -385,6 +455,16 @@
                  "name":"openWebsite",
                  "type":"string",
                  "value":"https:\/\/pads.ccc.de\/zl-guestbook"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
+                 "type":"string",
+                 "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"press SPACE to open our guestbook"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -433,12 +513,6 @@
          "id":7,
          "name":"override",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"depth",
-                 "type":"int",
-                 "value":3
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":60,
@@ -448,6 +522,27 @@
  "nextlayerid":44,
  "nextobjectid":5,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"z-Labor e.V."
+        }, 
+        {
+         "name":"mapDescription",
+         "type":"string",
+         "value":"obergeschoss Seilerstrasse1 Zwickau"
+        }, 
+        {
+         "name":"mapLink",
+         "type":"string",
+         "value":"https:\/\/github.com\/z-Marcel\/z-Labor-workadventure-map\/blob\/rc3-2021\/zl-og.json"
+        }, 
+        {
+         "name":"mapName",
+         "type":"string",
+         "value":"zl-og"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,
