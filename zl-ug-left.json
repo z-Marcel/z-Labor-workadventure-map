@@ -45,7 +45,7 @@
                         {
                          "name":"url",
                          "type":"string",
-                         "value":"https:\/\/media.ccc.de\/v\/36c3-10776-hebocon"
+                         "value":"https:\/\/streaming.media.ccc.de\/rc3\/embed\/chaoszone\/hls\/native"
                         }],
                  "rotation":0,
                  "type":"website",
