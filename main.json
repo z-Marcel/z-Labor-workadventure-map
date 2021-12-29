@@ -99,7 +99,7 @@
                         {
                          "name":"getBadge",
                          "type":"string",
-                         "value":"NGPIYCfM2BveQgKrZIPUsinjXGx488sjD4YKeHWWbxfGdsFDD4 "
+                         "value":"NGPIYCfM2BveQgKrZIPUsinjXGx488sjD4YKeHWWbxfGdsFDD4"
                         }],
                  "rotation":0,
                  "type":"",
@@ -124,23 +124,6 @@
                  "width":56.6666666666667,
                  "x":324.666666666667,
                  "y":707.333333333333
-                }, 
-                {
-                 "height":32,
-                 "id":9,
-                 "name":"Frog_Lover",
-                 "properties":[
-                        {
-                         "name":"getBadge",
-                         "type":"string",
-                         "value":"YDkeUfmwUim5215w5sZcbW3TjzDb4TtfDMbOOUBbnDrRusEQPP"
-                        }],
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":32,
-                 "x":1792,
-                 "y":672
                 }],
          "opacity":1,
          "type":"objectgroup",
