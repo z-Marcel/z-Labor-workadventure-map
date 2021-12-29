@@ -186,7 +186,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/main.json#entryM"
+                 "value":".\/zl-og.json#entry_cats"
                 }],
          "type":"tilelayer",
          "visible":true,
